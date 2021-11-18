@@ -1,0 +1,30 @@
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.exe.config
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.exe
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.pdb
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.dll
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.dll
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.pdb
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.xml
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.pdb
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.xml
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.AssemblyReference.cache
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.exe.config
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.CoreCompileInputs.cache
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.CopyComplete
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.exe
+/Users/alexanderkvapel/Projects/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.exe.config
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.exe
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/kvapel_lab4.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.dll
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.dll
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.xml
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/bin/Debug/OpenTK.GLControl.xml
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.AssemblyReference.cache
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.exe.config
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.CoreCompileInputs.cache
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.csproj.CopyComplete
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.exe
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L4/kvapel_lab4/kvapel_lab4/obj/Debug/kvapel_lab4.pdb

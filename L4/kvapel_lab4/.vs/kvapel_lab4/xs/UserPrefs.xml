@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3151F4B4-E959-4997-9CC5-2BD3E6F3CBAF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="kvapel_lab4/HalfSphere.cs">
+    <Files>
+      <File FileName="kvapel_lab4/Program.cs" Line="17" Column="1" />
+      <File FileName="kvapel_lab4/Plot.cs" />
+      <File FileName="kvapel_lab4/HalfSphere.cs" Line="117" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="kvapel_lab4" expanded="True">
+            <Node name="kvapel_lab4" expanded="True">
+              <Node name="HalfSphere.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.kvapel__lab4 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

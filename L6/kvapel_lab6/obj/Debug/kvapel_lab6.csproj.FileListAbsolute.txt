@@ -1,0 +1,15 @@
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/kvapel_lab6.exe.config
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/kvapel_lab6.exe
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/kvapel_lab6.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.dll
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.GLControl.dll
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.xml
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.GLControl.pdb
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/bin/Debug/OpenTK.GLControl.xml
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.csproj.AssemblyReference.cache
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.exe.config
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.csproj.CoreCompileInputs.cache
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.csproj.CopyComplete
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.exe
+/Users/alexanderkvapel/Desktop/MAI/3grade/5term/Компьютерная Графика/labs/L6/kvapel_lab6/obj/Debug/kvapel_lab6.pdb
